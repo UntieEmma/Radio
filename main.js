@@ -14,22 +14,46 @@ const channel = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
-        displayName: 'The Charmer\'s Call',
-        cover: 'assets/1.jpg',
-        artist: 'Hanu Dixit',
+        path: 'assets/podcats/AFRICA.mp3',
+        displayName: 'The African Cast',
+        cover: 'assets/AFRICA.jpg',
+        artist: 'Ernest Makhaya ',
     },
     {
-        path: 'assets/2.mp3',
-        displayName: 'You Will Never See Me Coming',
-        cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
+        path: 'assets/podcats/ASIA.mp3',
+        displayName: 'The Asian Cast',
+        cover: 'assets/ASIA.png',
+        artist: 'James Wagner',
     },
     {
-        path: 'assets/3.mp3',
-        displayName: 'Intellect',
-        cover: 'assets/3.jpg',
-        artist: 'Yung Logos',
+        path: 'assets/podcats/EUROPE.mp3',
+        displayName: 'The European Cast',
+        cover: 'assets/Europe.jfif',
+        artist: 'Edgar Alvarez',
+    },
+    {
+        path: 'assets/podcats/North America.mp3',
+        displayName: 'The North American Cast',
+        cover: 'assets/north America.png',
+        artist: 'Ubaldo Martinez',
+    },
+    {
+        path: 'assets/podcats/SOUTH AMERICA COPA PODCAST.mp3',
+        displayName: 'The South American Cast',
+        cover: 'assets/south america.png',
+        artist: 'Enrique Gutierrez ',
+    },
+    {
+        path: 'assets/podcats/Australia.mp3',
+        displayName: 'The Australian Cast',
+        cover: 'assets/oceania-flags-helge.jpg',
+        artist: 'Chris Johnston',
+    },
+    {
+        path: 'assets/podcats/Antarctica.mp3',
+        displayName: 'The Antarctican Cast',
+        cover: 'assets/assets/ANTARCTICA.jpg',
+        artist: 'Jeff Darlington ',
     }
 ];
 
